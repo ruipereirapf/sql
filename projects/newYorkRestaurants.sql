@@ -47,3 +47,7 @@ SELECT *,
     ELSE 'Poor'
     END AS 'Review'
 FROM nomnom;
+
+
+
+-- adding changes for gittesting
